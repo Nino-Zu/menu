@@ -1,7 +1,6 @@
-
 [{
   "owner": "Rafaa",
-  "menunih": "*INFORMATION*
+  "menunih": "INFORMATION
 ≻ #ping
 ≻ #owner
 ≻ #menu
@@ -12,7 +11,7 @@
 ≻ #listgc
 ≻ #listonline
 
-*GROUPS*
+GROUPS
 ≻ #linkgroup
 ≻ #ephemeral [option]
 ≻ #setppgc [image]
@@ -27,7 +26,7 @@
 ≻ #promote @user
 ≻ #demote @user
 
-*DOWNLOADER*
+DOWNLOADER
 ≻ #tiktok [url]
 ≻ #instagram [url]
 ≻ #twitter [url]
@@ -42,7 +41,7 @@
 ≻ #joox 
 ≻ #soundcloud [url]
 
-*SEARCHING*
+SEARCHING
 ≻ #play 
 ≻ #yts 
 ≻ #google 
@@ -53,7 +52,7 @@
 ≻ #ytsearch 
 ≻ #ringtone 
 
-*FUN & GAME*
+FUN & GAME
 ≻ #halah
 ≻ #hilih
 ≻ #huluh
@@ -68,14 +67,14 @@
 ≻ #math [mode]
 ≻ #suitpvp [@tag]
 
-*RELIGION*
+RELIGION
 ≻ #iqra
 ≻ #hadist
 ≻ #alquran
 ≻ #juzamma
 ≻ #tafsirsurah
 
-*PRIMBON*
+PRIMBON
 ≻ #nomorhoki
 ≻ #artimimpi
 ≻ #artinama
@@ -86,7 +85,7 @@
 ≻ #cocoknama
 ≻ #pasangan
 
-*CONVERTER / TOOLS*
+CONVERTER / TOOLS
 ≻ #toimage
 ≻ #removebg
 ≻ #sticker
@@ -100,7 +99,7 @@
 ≻ #ebinary
 ≻ #dbinary
 
-*LIBRARY MD*
+LIBRARY MD
 ≻ #setcmd
 ≻ #listcmd
 ≻ #delcmd
@@ -110,20 +109,20 @@
 ≻ #getmsg
 ≻ #delmsg
 
-*IMAGE*
+IMAGE
 ≻ #waifu
 ≻ #loli
 ≻ #husbu
 ≻ #megumin
 ≻ #ppcouple
 
-*ANONYMOUS*
+ANONYMOUS
  /start
  /next
  /keluar
  /sendkontak
 
-*OWNER*
+OWNER
 ≻ #chat
 ≻ #join
 ≻ #leave
