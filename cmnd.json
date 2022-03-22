@@ -1,7 +1,6 @@
 [{
   "owner": "Rafaa",
-  "menunih": "INFORMATION
-≻ #ping
+  "menunih": "INFORMATION\n≻ #ping
 ≻ #owner
 ≻ #menu
 ≻ #delete
@@ -9,8 +8,7 @@
 ≻ #quoted
 ≻ #listpc
 ≻ #listgc
-≻ #listonline
-
+≻ #listonline\n
 GROUPS
 ≻ #linkgroup
 ≻ #ephemeral [option]
@@ -24,8 +22,7 @@ GROUPS
 ≻ #hidetag [text]
 ≻ #tagall [text]
 ≻ #promote @user
-≻ #demote @user
-
+≻ #demote @user\n
 DOWNLOADER
 ≻ #tiktok [url]
 ≻ #instagram [url]
@@ -39,8 +36,7 @@ DOWNLOADER
 ≻ #getvideo 
 ≻ #umma [url]
 ≻ #joox 
-≻ #soundcloud [url]
-
+≻ #soundcloud [url]\n
 SEARCHING
 ≻ #play 
 ≻ #yts 
@@ -50,8 +46,7 @@ SEARCHING
 ≻ #wallpaper 
 ≻ #wikimedia 
 ≻ #ytsearch 
-≻ #ringtone 
-
+≻ #ringtone\n
 FUN & GAME
 ≻ #halah
 ≻ #hilih
@@ -65,15 +60,13 @@ FUN & GAME
 ≻ #family100
 ≻ #tebak [option]
 ≻ #math [mode]
-≻ #suitpvp [@tag]
-
+≻ #suitpvp [@tag]\n
 RELIGION
 ≻ #iqra
 ≻ #hadist
 ≻ #alquran
 ≻ #juzamma
-≻ #tafsirsurah
-
+≻ #tafsirsurah\n
 PRIMBON
 ≻ #nomorhoki
 ≻ #artimimpi
@@ -83,8 +76,7 @@ PRIMBON
 ≻ #suamiistri
 ≻ #ramalcinta
 ≻ #cocoknama
-≻ #pasangan
-
+≻ #pasangan\n
 CONVERTER / TOOLS
 ≻ #toimage
 ≻ #removebg
@@ -97,8 +89,7 @@ CONVERTER / TOOLS
 ≻ #tomp3
 ≻ #toaudio
 ≻ #ebinary
-≻ #dbinary
-
+≻ #dbinary\n
 LIBRARY MD
 ≻ #setcmd
 ≻ #listcmd
@@ -107,21 +98,18 @@ LIBRARY MD
 ≻ #addmsg
 ≻ #listmsg
 ≻ #getmsg
-≻ #delmsg
-
+≻ #delmsg\n
 IMAGE
 ≻ #waifu
 ≻ #loli
 ≻ #husbu
 ≻ #megumin
-≻ #ppcouple
-
+≻ #ppcouple\n
 ANONYMOUS
  /start
  /next
  /keluar
- /sendkontak
-
+ /sendkontak\n
 OWNER
 ≻ #chat
 ≻ #join
