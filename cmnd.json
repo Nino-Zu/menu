@@ -1,122 +1,21 @@
 [{
   "owner": "Rafaa",
-  "menunih": "INFORMATION\n≻ #ping
-≻ #owner
-≻ #menu
-≻ #delete
-≻ #infochat
-≻ #quoted
-≻ #listpc
-≻ #listgc
-≻ #listonline\n
-GROUPS
-≻ #linkgroup
-≻ #ephemeral [option]
-≻ #setppgc [image]
-≻ #setname [text]
-≻ #setdesc [text]
-≻ #group [option]
-≻ #editinfo [option]
-≻ #add @user
-≻ #kick @user
-≻ #hidetag [text]
-≻ #tagall [text]
-≻ #promote @user
-≻ #demote @user\n
-DOWNLOADER
-≻ #tiktok [url]
-≻ #instagram [url]
-≻ #twitter [url]
-≻ #twittermp3 [url]
-≻ #facebook [url]
-≻ #pinterestdl [url]
-≻ #ytmp3 [url]
-≻ #ytmp4 [url]
-≻ #getmusic 
-≻ #getvideo 
-≻ #umma [url]
-≻ #joox 
-≻ #soundcloud [url]\n
-SEARCHING
-≻ #play 
-≻ #yts 
-≻ #google 
-≻ #gimage 
-≻ #pinterest 
-≻ #wallpaper 
-≻ #wikimedia 
-≻ #ytsearch 
-≻ #ringtone\n
-FUN & GAME
-≻ #halah
-≻ #hilih
-≻ #huluh
-≻ #heleh
-≻ #holoh
-≻ #jadian
-≻ #jodohku
-≻ #delttt
-≻ #tictactoe
-≻ #family100
-≻ #tebak [option]
-≻ #math [mode]
-≻ #suitpvp [@tag]\n
-RELIGION
-≻ #iqra
-≻ #hadist
-≻ #alquran
-≻ #juzamma
-≻ #tafsirsurah\n
-PRIMBON
-≻ #nomorhoki
-≻ #artimimpi
-≻ #artinama
-≻ #ramaljodoh
-≻ #ramaljodohbali
-≻ #suamiistri
-≻ #ramalcinta
-≻ #cocoknama
-≻ #pasangan\n
-CONVERTER / TOOLS
-≻ #toimage
-≻ #removebg
-≻ #sticker
-≻ #emojimix
-≻ #tovideo
-≻ #togif
-≻ #tourl
-≻ #tovn
-≻ #tomp3
-≻ #toaudio
-≻ #ebinary
-≻ #dbinary\n
-LIBRARY MD
-≻ #setcmd
-≻ #listcmd
-≻ #delcmd
-≻ #lockcmd
-≻ #addmsg
-≻ #listmsg
-≻ #getmsg
-≻ #delmsg\n
-IMAGE
-≻ #waifu
-≻ #loli
-≻ #husbu
-≻ #megumin
-≻ #ppcouple\n
-ANONYMOUS
- /start
- /next
- /keluar
- /sendkontak\n
-OWNER
-≻ #chat
-≻ #join
-≻ #leave
-≻ #block
-≻ #unblock
-≻ #bcgroup
-≻ #bcall
-≻ #setppbot"
+  "menunih": "Seiko Bot Information\n\n• *Name :* Seiko Bot
+• *Number :* 6281381455128
+• *Owner :* 6285861870154
+• *Total Penggunaa :* ${pendaftar.length}
+• *Prefix :* Multi Prefix
+• *Website :* https://nino-zu.github.io/
+• *Github :* http://github.com/Nino-Zu
+• Bot Created On Okt 2021
+
+*Special Thanks To :*
+• *Allah SWT*
+• *Adiwajshing/Baileys*
+• *Febb*
+• *Lindow*
+• *Null Team*
+• *Penyedia Dari :*
+    - *Rest Api*
+    - *Module*"
 }]
